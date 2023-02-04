@@ -24,15 +24,10 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+
+@font-face {
+  font-family: digital;
+  src: url('./assets/font/digital.ttf');
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
